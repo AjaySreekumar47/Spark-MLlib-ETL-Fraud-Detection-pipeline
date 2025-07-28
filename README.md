@@ -61,7 +61,7 @@ This project demonstrates a scalable, end-to-end **fraud detection system** usin
 
 ---
 
-## 📁 Folder Structure (To Be Added)
+## 📁 Folder Structure
 
 Will be tailored after repository name is provided. Includes:
 - `data/`
