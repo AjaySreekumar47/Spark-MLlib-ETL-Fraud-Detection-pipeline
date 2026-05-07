@@ -51,4 +51,4 @@ def train_and_evaluate(df: DataFrame, label_col="is_fraud", model_type="logistic
         "F1": 2 * tp / (2 * tp + fp + fn) if (2 * tp + fp + fn) > 0 else 0
     }
 
-    return model_fitted, metrics
+    return model_fitted, metrics, predictions
